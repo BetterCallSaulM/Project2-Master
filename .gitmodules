@@ -1,0 +1,6 @@
+[submodule "Project2-Frontend"]
+	path = Project2-Frontend
+	url = https://github.com/BetterCallSaulM/Project2-Frontend.git
+[submodule "Project2-Backend"]
+	path = Project2-Backend
+	url = https://github.com/BetterCallSaulM/Project2-Backend.git
